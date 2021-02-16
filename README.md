@@ -1,6 +1,7 @@
 ## Elixir SDET homework assigment
 
-- Choose at least 3 three of the options in the list on https://the-internet.herokuapp.com/, and automate at least one test case for each option.
+- Choose at least 3 three of the options in the list on https://the-internet.herokuapp.com/, and automate at least one test case for each option. 
+**(I created automated tests for the add/remove page, the checkboxes page, and the dropdown page. I used the Hound and ExUnit helpers and wrote the automation in Elixir; which I previously did not have any experience with - running local chromedriver from port 9515, as per the config.exs file)**
 - Bonus: Choose at least 1 request from https://reqres.in/ and write at least one api test for that request (double bonus if this is done in elixir, in the same project as the browser automation portion.)
 
 Hint:
